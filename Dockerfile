@@ -1,4 +1,4 @@
-FROM arm32v7/alpine:3.7
+FROM arm32v7/alpine:latest
 
 MAINTAINER David Coppit <david@coppit.org>
 
